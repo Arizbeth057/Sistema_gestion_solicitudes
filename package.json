@@ -1,0 +1,14 @@
+{
+  "name": "express-postgres-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API con Express y PostgreSQL",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "pg": "^8.13.1"
+  }
+}
